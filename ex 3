@@ -1,0 +1,23 @@
+{
+"colegi": 
+[
+    {
+        "nume": "Robert",
+        "prenume": "Robert"
+    },
+    {
+        "nume": "David",
+        "prenume": "Galati"
+    },
+    {
+        "nume": "Bogdan",
+        "prenume": "Hutu"
+    },
+    {
+        "nume": "Costin",
+        "prenume": "Calin"
+    }
+
+    
+]
+}
